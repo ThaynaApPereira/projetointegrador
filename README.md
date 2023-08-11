@@ -5,8 +5,8 @@
 
 <p align="center">Site de Review voltado para a área de jogos.Grupo composto por quatro pessoas: Thayná, Wallison, Ana Júlia e Thaís. </p>
 <p align="center">
- <p >Que as pessoas acessem nosso site, podendo ver e dar suas opiniões, analisando se o(s) jogo(s) são bons ou não.</a> • 
- <a href="#tecnologias">HTML, CSS e JS. HTML nos permite construir websites e fazer a inserção de novos conteúdos como imagens e vídeos por meio de hipertextos. CSS trabalha a parte visual da página web, tendo como tarefa separar o conteúdo do site de sua apresentação visual, assim como todo o aspecto estético de uma página. JavaScript nos possibilita a dar funcionalidades a algumas partes do HTML e executar comandos. 
+ <p >Que as pessoas acessem nosso site, podendo ver e dar suas opiniões, analisando se o(s) jogo(s) são bons ou não.</p>
+ <p >HTML, CSS e JS. HTML nos permite construir websites e fazer a inserção de novos conteúdos como imagens e vídeos por meio de hipertextos. CSS trabalha a parte visual da página web, tendo como tarefa separar o conteúdo do site de sua apresentação visual, assim como todo o aspecto estético de uma página. JavaScript nos possibilita a dar funcionalidades a algumas partes do HTML e executar comandos. 
 </p> 
  <p >MIT License
 
